@@ -1,0 +1,6 @@
+*.pyc
+django_error_store/
+./manage.py
+./__init__.py
+./urls.py
+*.sqlite3
