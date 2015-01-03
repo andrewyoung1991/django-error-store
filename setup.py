@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 version = '0.1'
 
 setup(
-    name='django-under-maintenance',
+    name='django-error-store',
     packages=find_packages(),
     version=version,
     description='store django request objects for debugging server errors.',
